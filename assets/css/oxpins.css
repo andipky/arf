@@ -6610,7 +6610,7 @@ body.locked .page-wrapper {
 .contact-one {
   position: relative;
   display: block;
-  margin-top: -70px;
+  margin-top: -80px;
   z-index: 1;
 }
 
@@ -10944,7 +10944,7 @@ body.locked .page-wrapper {
 # Google Map Two
 --------------------------------------------------------------*/
 .google-map-two {
-  margin-top: -65px;
+  margin-top: -80px;
 }
 
 /*--------------------------------------------------------------

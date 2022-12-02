@@ -2711,7 +2711,7 @@ body.locked .page-wrapper {
   position: relative;
   font-size: 80px;
   color: var(--oxpins-white);
-  font-weight: 900;
+  font-weight: 700;
   line-height: 110px;
   letter-spacing: -0.04em;
   text-transform: uppercase;

@@ -8681,18 +8681,17 @@ body.locked .page-wrapper {
 .news-details__title {
   font-size: 30px;
   line-height: 40px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
   font-weight: 900;
   letter-spacing: -0.04em;
 }
 
-.news-details__text-1 {
+.news-details__content p {
   font-size: 16px;
 }
 
-.news-details__text-2 {
-  font-size: 16px;
-  padding-top: 31px;
+.news-details__content p + p {
+  margin-top: 15px;
 }
 
 .news-details__bottom {

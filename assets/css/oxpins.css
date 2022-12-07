@@ -11449,3 +11449,9 @@ body.boxed-wrapper {
   font-weight: 700;
   line-height: 28px;
 }
+
+.yt-frame {
+  width: 100%;
+  height: 280px;
+  border-radius: var(--oxpins-bdr-radius);
+}
